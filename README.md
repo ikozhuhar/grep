@@ -2,7 +2,6 @@
 
 <br/>
 
-> [!NOTE]
 > #### _SYNOPSIS_  
 > _grep [OPTION...] PATTERNS [FILE...]_
 
