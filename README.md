@@ -57,6 +57,11 @@ grep -r "error" /var/log
 _Исключение файлов или директорий из поиска_
 
 ```
+# исключаем файл
 grep -r --exclude="*.log" "error" /var/log
+
+# исключаем директорию
 grep -r --exclude-dir="backup" "error" /var/log
 ```
+
+
