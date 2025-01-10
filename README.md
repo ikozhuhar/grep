@@ -14,32 +14,32 @@ grep "pattern" ./file.txt
 
 _Отображение номеров строк в которых есть pattern (-n)_
 
-```gitattributes
+```ruby
 grep -n "pattern" logfile.txt
 ```
 ![image](https://github.com/user-attachments/assets/aa1ec7c9-ec0a-492f-8c04-9649e1caddf3)
 
 _Выводит строки, не содержащие "debug"_
 
-```gitattributes
+```ruby
 grep -v "debug" logfile.txt
 ```
 
 _Выводит количество совпадающих строк вместо самих строк_
 
-```gitattributes
+```ruby
 grep -c "pattern" logfile.txt
 ```
 
 _Поиск без учета регистра (-i)_
 
-```gitattributes
+```ruby
 grep -i "pattern" logfile.txt
 ```
 
 _Поиск строки с "pattern" или "warning"_
 
-```gitattributes
+```ruby
 grep -E "pattern1|pattern2" logfile.txt
 ```
 
@@ -50,13 +50,13 @@ grep -E "pattern1|pattern2" logfile.txt
 
 _Рекурсивный поиск во всех файлах директории и поддиректорий_
 
-```gitattributes
+```ruby
 grep -r "error" /var/log
 ```
 
 _Исключение файлов или директорий из поиска_
 
-```gitattributes
+```ruby
 # исключаем файл
 grep -r --exclude="*.log" "error" /var/log
 
