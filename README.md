@@ -1,4 +1,4 @@
-![language stats bar](https://github.com/user-attachments/assets/0d49e8a9-9b61-44cb-92ba-489b2c2807d6)
+![image](https://github.com/user-attachments/assets/0d49e8a9-9b61-44cb-92ba-489b2c2807d6)
 
 > **grep [OPTION...] PATTERNS [FILE...]**
 >
