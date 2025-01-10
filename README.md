@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/0d49e8a9-9b61-44cb-92ba-489b2c2807d6)
 
-grep [OPTION...] PATTERNS [FILE...]
+> grep [OPTION...] PATTERNS [FILE...]
 
 Команда ищет "pattern" в указанном файле и выводит все совпадающие строки.
 
@@ -39,10 +39,10 @@ grep -i "error" logfile.txt
 grep -E "error|warning" logfile.txt
 ```
 
-- `^pattern`: Ищет строки, начинающиеся с "pattern"
-- `pattern$`: Ищет строки, заканчивающиеся на "pattern"
-- `[abc]`: Ищет любой из символов a, b или c
-- `.*`: Ищет любое количество любых символов
+- `^pattern`: ищет строки, начинающиеся с "pattern"
+- `pattern$`: ищет строки, заканчивающиеся на "pattern"
+- `[abc]`: ищет любой из символов a, b или c
+- `.*`: ищет любое количество любых символов
 
 Рекурсивный поиск во всех файлах директории и поддиректорий:
 
