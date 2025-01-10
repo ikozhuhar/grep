@@ -37,7 +37,7 @@ grep -i "pattern" logfile.txt
 _Поиск строки с "pattern" или "warning"_
 
 ```ruby
-grep -E "pattern1|pattern2" logfile.txt
+grep -E "error|warning" logfile.txt
 ```
 
 - `^pattern`: ищет строки, начинающиеся с "pattern"
