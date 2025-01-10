@@ -33,13 +33,13 @@ grep -c "error" logfile.txt
 
 _Поиск без учета регистра (-i)_
 
-```
+```gitattributes
 grep -i "error" logfile.txt
 ```
 
 _Поиск строки с "error" или "warning"_
 
-```
+```gitattributes
 grep -E "error|warning" logfile.txt
 ```
 
@@ -50,7 +50,7 @@ grep -E "error|warning" logfile.txt
 
 _Рекурсивный поиск во всех файлах директории и поддиректорий_
 
-```
+```gitattributes
 grep -r "error" /var/log
 ```
 
@@ -62,15 +62,6 @@ grep -r --exclude="*.log" "error" /var/log
 
 # исключаем директорию
 grep -r --exclude-dir="backup" "error" /var/log
-```
-
-```gitattributes
-# Apply override to all files in the directory
-project-docs/* linguist-documentation
-# Apply override to a specific file
-docs/formatter.rb -linguist-documentation
-# Apply override to all files and directories in the directory
-ano-dir/** linguist-documentation
 ```
 
 
