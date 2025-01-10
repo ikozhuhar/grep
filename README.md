@@ -1,6 +1,8 @@
 
 ![image](https://github.com/user-attachments/assets/85cddc52-4468-4d13-98d9-3da233acac5d)
 ![image](https://github.com/user-attachments/assets/654e4f8e-e9e5-4ad6-b5aa-ea6b4284f1e5)
+![image](https://github.com/user-attachments/assets/a7880e66-9335-46b6-98a7-e28d8e73417e)
+
 
 
 Эта команда ищет "pattern" в указанном файле и выводит все совпадающие строки.
