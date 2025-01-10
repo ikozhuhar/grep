@@ -64,4 +64,13 @@ grep -r --exclude="*.log" "error" /var/log
 grep -r --exclude-dir="backup" "error" /var/log
 ```
 
+```gitattributes
+# Apply override to all files in the directory
+project-docs/* linguist-documentation
+# Apply override to a specific file
+docs/formatter.rb -linguist-documentation
+# Apply override to all files and directories in the directory
+ano-dir/** linguist-documentation
+```
+
 
