@@ -3,8 +3,8 @@
 <br/>
 
 > [!NOTE]
-> _SYNOPSIS_  
-> grep [OPTION...] PATTERNS [FILE...]
+> #### _SYNOPSIS_  
+> _grep [OPTION...] PATTERNS [FILE...]_
 
 <br/>
 
