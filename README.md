@@ -56,7 +56,7 @@ grep -r "error" /var/log
 
 _Исключение файлов или директорий из поиска_
 
-```
+```gitattributes
 # исключаем файл
 grep -r --exclude="*.log" "error" /var/log
 
