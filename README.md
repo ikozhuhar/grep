@@ -13,8 +13,6 @@ grep "pattern" ./file.txt
 ```
 grep -n "pattern" logfile.txt
 ```
-Пример:
-
 ![image](https://github.com/user-attachments/assets/aa1ec7c9-ec0a-492f-8c04-9649e1caddf3)
 
 Выводит строки, не содержащие "debug". 
