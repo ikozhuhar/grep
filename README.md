@@ -8,7 +8,7 @@
 
 _Команда ищет "pattern" в указанном файле и выводит все совпадающие строки._
 
-```gitattributes
+```ruby
 grep "pattern" ./file.txt
 ```
 
