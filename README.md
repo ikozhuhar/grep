@@ -1,10 +1,11 @@
 ![image](https://github.com/user-attachments/assets/0d49e8a9-9b61-44cb-92ba-489b2c2807d6)
 
-```ruby
+
 > [!NOTE]
 > _SYNOPSIS_  
 > grep [OPTION...] PATTERNS [FILE...]
-```
+
+<br/><br/><br/>
 
 _Команда ищет "pattern" в указанном файле и выводит все совпадающие строки._
 
