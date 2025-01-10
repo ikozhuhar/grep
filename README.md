@@ -1,9 +1,8 @@
 ![image](https://github.com/user-attachments/assets/0d49e8a9-9b61-44cb-92ba-489b2c2807d6)
 
 <br/>
-
-> #### _SYNOPSIS_  
-> _grep [OPTION...] PATTERNS [FILE...]_
+ 
+##### _grep [OPTION...] PATTERNS [FILE...]_
 
 <br/>
 
