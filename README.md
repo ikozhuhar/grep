@@ -146,5 +146,30 @@ _Эта команда найдёт все уникальные файлы с "T
 
 ```ruby
 find . -type f | xargs grep "TODO" | awk '{print $1}' | sort | uniq
+```
+
+_Мгновенно выявляем проблемы в системе_
+
+```ruby
+grep "ERROR" /var/log/syslog
+```
+
+_Быстро находим определения функций в Python-файлах_
+
+```ruby
+grep "def " *.py
+```
+
+_Вытаскиваем строки с ключевым словом из CSV-файла_
+
+```ruby
+grep "keyword" dataset.csv
+```
+
+_Эта команда найдет все уникальные ошибки в логах, отсортирует их по частоте_
+
+```ruby
+grep "ERROR" /var/log/* | sort | uniq -c | sort -nr
+```
 
 
