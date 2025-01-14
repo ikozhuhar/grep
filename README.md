@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/ikozhuhar/grep/blob/main/img/grep.jpeg
+<img src="https://github.com/ikozhuhar/grep/blob/main/img/grep.jpeg">
  </p>
+ 
 ![image](https://github.com/user-attachments/assets/5a9085de-ab73-44db-bd6a-75a34b54fe5b)
 
 <br/>
