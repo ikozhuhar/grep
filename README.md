@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/0d49e8a9-9b61-44cb-92ba-489b2c2807d6)
+<p align="center">
+<img src="https://github.com/ikozhuhar/grep/blob/main/img/grep.jpeg
+ </p>
+![image](https://github.com/user-attachments/assets/5a9085de-ab73-44db-bd6a-75a34b54fe5b)
 
 <br/>
  
