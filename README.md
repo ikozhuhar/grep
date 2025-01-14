@@ -16,7 +16,7 @@ _Отображение номеров строк в которых есть pat
 ```ruby
 grep -n "pattern" logfile.txt
 ```
-![image](https://github.com/user-attachments/assets/aa1ec7c9-ec0a-492f-8c04-9649e1caddf3)
+![image](https://github.com/user-attachments/assets/64948417-0055-4dfe-9464-07c49694c207)
 
 _Выводит строки, не содержащие "debug"_
 
